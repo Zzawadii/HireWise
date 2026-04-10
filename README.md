@@ -1,3 +1,2 @@
-# Welcome to your Lovable project
-
-TODO: Document your project here
+# HireWise
+>>>>>>> 089826a209eaa18e706211ba7b120c651e903730
